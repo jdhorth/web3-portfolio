@@ -5,23 +5,23 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Non-Fungi.com - <strong>Wordpress Developer and Editor</strong></i>, 2021-2022
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Reached Top 10 Search Results</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>WCF CFE</i> - <strong>Forklift Service Tech</strong>, 2014-2021
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Mobile Mechanic</li>
+                        <li>LPG, Deisel, Gas &amp; Electric Material Handling </li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Part-time</i> - <strong>Website Maintenance</strong>, 2009-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Contributed web design and maintenance as a hobby</li>
+                        <li>Domain Name &amp; Email Set-up</li>
                     </ul>
                 </li>
             </ul>

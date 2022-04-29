@@ -6,14 +6,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                Welcome and thanks for surfing by. I am a born again web3 developer. This site hosts some of my work. Huge thanks to the coding community and Youtubers. Some projects I've adapted by awesome channels including EatTheBlocks, Dapp University, The Net Ninja, Traversy Media, Kevin Powell, Colby Fayock, freecodecamp and many more. I really appreciate all the educational and inspirational channels available! I'm excited to learn new web2 and web3 skills. I enjoy HTML, CSS, Javascript, frameworks, React, Nextjs, Gatsby, some Vue3 and am also interested in blockchain developments and NFTs. This is a new web3 porfolio project.
             </p>
         </section>
     );
