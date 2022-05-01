@@ -125,6 +125,14 @@ code {
 
   border: 1px solid #0088BB;
   border-radius: 8px;
+  transition: all 250ms ease;
+}
+
+.projects__card:hover {
+  box-shadow: 6px 6px 5px #b3b3b3;
+  transform: scale(1.025);
+  transition: all 0.2s ease-in-out;
+
 }
 
 .projects__card h3 {
@@ -212,4 +220,8 @@ code {
 .button:hover {
   background: #0088BB;
   color: #FFFFFF;
+  box-shadow: 4px 4px 3px #b3b3b3;
+  transform: scale(1.025);
+  transition: all 0.2s ease-in-out;
+
 }
