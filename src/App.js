@@ -5,11 +5,15 @@ import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Social from './components/Social';
 import Footer from './components/Footer';
+import Swiper from './components/Swiper';
+
+
 
 function App() {
 	return (
 		<div className="App">
 			<Header />
+			<Swiper />
 			<About />
 			<Projects />
 			<Experience />

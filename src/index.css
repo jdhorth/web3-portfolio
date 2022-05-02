@@ -128,6 +128,26 @@ code {
   transition: all 250ms ease;
 }
 
+
+.projects__cards__swiper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.projects__card__swiper {
+  max-width: 350px;
+
+  padding: 20px;
+
+  border: 1px solid #0088BB;
+  border-radius: 8px;
+  transition: all 250ms ease;
+}
+
+
 .projects__card:hover {
   box-shadow: 6px 6px 5px #b3b3b3;
   transform: scale(1.025);
