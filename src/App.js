@@ -12,9 +12,10 @@ import Swiper from './components/Swiper';
 function App() {
 	return (
 		<div className="App">
+
 			<Header />
-			<Swiper />
 			<About />
+			<Swiper />
 			<Projects />
 			<Experience />
 			<Social />

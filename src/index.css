@@ -129,25 +129,6 @@ code {
 }
 
 
-.projects__cards__swiper {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-
-.projects__card__swiper {
-  max-width: 350px;
-
-  padding: 20px;
-
-  border: 1px solid #0088BB;
-  border-radius: 8px;
-  transition: all 250ms ease;
-}
-
-
 .projects__card:hover {
   box-shadow: 6px 6px 5px #b3b3b3;
   transform: scale(1.025);
@@ -244,4 +225,17 @@ code {
   transform: scale(1.025);
   transition: all 0.2s ease-in-out;
 
+}
+
+.swiper img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0 20px;
+
+  border-radius: 8px;
+}
+
+.swiper h3 {
+  font-size: 32px;
+  margin: 25px auto;
 }
