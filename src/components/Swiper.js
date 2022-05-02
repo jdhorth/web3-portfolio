@@ -3,7 +3,7 @@ import funbay from '../assets/fun-bay-thumb.jpg';
 import bbandit from '../assets/bbandit.jpg';
 
 // import Swiper core and required modules
-import { Navigation, Pagination, Scrollbar, A11y, Autoplay, EffectFlip } from 'swiper';
+import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -22,7 +22,6 @@ export default () => {
             spaceBetween={5}
             slidesPerView={3}
             navigation
-            effect="flip"
             autoplay={{ clickable: true }}
             pagination={{ clickable: true }}
             scrollbar={{ draggable: true }}
