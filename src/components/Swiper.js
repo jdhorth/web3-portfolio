@@ -3,6 +3,7 @@ import funbay from '../assets/fun-bay-thumb.jpg';
 import nonfun from '../assets/non-fun-thumb.jpg';
 import liverse from '../assets/liverse.png';
 import nonfungi from '../assets/non-fungi-thumb.jpg';
+import tw33ter from '../assets/tw33ter.png';
 
 
 
@@ -39,6 +40,12 @@ export default () => {
 
                 <h3>Recipe CMS</h3>
                 <img src={funbay} alt="Recipe Next.js" />
+
+            </SwiperSlide>
+            <SwiperSlide className='swiper'>
+
+                <h3>Web3 Twitter</h3>
+                <img src={tw33ter} alt="Web3 Twitter" />
 
             </SwiperSlide>
             <SwiperSlide>
