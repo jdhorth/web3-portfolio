@@ -2,6 +2,7 @@
 import crypto from '../assets/cryptobitpunk.jpg';
 import funbay from '../assets/fun-bay-thumb.jpg';
 import bbandit from '../assets/bbandit.jpg';
+import tw33ter from '../assets/tw33ter.png';
 
 const Projects = () => {
     return (
@@ -33,11 +34,20 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Markdown Site</h3>
                     <img src={bbandit} alt="Non-fungi Gatsby" />
-                    <p>A Gatsby site, React / GraphQL, builds Postings from Markdown, optimized, fast, customizable site on 'the edge'.
+                    <p>A Gatsby site, React / GraphQL, builds posts using markdown, optimized, fast, customizable site on 'the edge'.
                     </p>
 
                     <a href="http://non-fungi.xyz" target="_blank" className="button">Site</a>
                     <a href="#" target="_blank" className="button">Code</a>
+                </div>
+                <div className="projects__card">
+                    <h3>Web3 Twitter</h3>
+                    <img src={tw33ter} alt="Web3 Twitter" />
+                    <p>A web3 Twitter project, smart contract on Mumbai testnet, Moralis (web3 firebase) backend.
+                    </p>
+
+                    <a href="https://web3-twitter-sigma.vercel.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/jdhorth/web3-twitter" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
