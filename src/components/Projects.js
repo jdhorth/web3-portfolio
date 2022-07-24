@@ -3,6 +3,7 @@ import crypto from '../assets/cryptobitpunk.jpg';
 import funbay from '../assets/fun-bay-thumb.jpg';
 import bbandit from '../assets/bbandit.jpg';
 import tw33ter from '../assets/tw33ter.png';
+import d3pp from '../assets/d3pp.png';
 
 const Projects = () => {
     return (
@@ -19,6 +20,15 @@ const Projects = () => {
 
                     <a href="https://coin-clone.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/jdhorth/coin-clone" target="_blank" className="button">Code</a>
+                </div>
+                <div className="projects__card">
+                    <h3>Signature Based NFT Minter</h3>
+                    <img src={d3pp} alt="Signature NFT Minting" />
+                    <p>This is a signature based minting site using the thirdweb dashboard, contract deploy to testnet Mumbai on Polygon
+                    </p>
+
+                    <a href="https://web3-thirdweb.vercel.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/jdhorth/web3-thirdweb/" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">

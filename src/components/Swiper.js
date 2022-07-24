@@ -4,6 +4,7 @@ import nonfun from '../assets/non-fun-thumb.jpg';
 import liverse from '../assets/liverse.png';
 import nonfungi from '../assets/non-fungi-thumb.jpg';
 import tw33ter from '../assets/tw33ter.png';
+import d3pp from '../assets/d3pp.png';
 
 
 
@@ -52,6 +53,12 @@ export default () => {
 
                 <h3>Crypto Dashboard</h3>
                 <img src={crypto} alt="Crypto Dashboard" />
+
+            </SwiperSlide>
+            <SwiperSlide>
+
+                <h3>NFT mint dapp</h3>
+                <img src={d3pp} alt="NFT mint dapp" />
 
             </SwiperSlide>
             <SwiperSlide>
