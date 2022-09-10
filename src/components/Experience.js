@@ -11,14 +11,15 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>WCF CFE</i> - <strong>Forklift Service Tech</strong>, 2014-2021
+                    <i>Sears, Ace, Ditch Witch, STI, WCF CFE</i> - <strong>Small Engine, Heavy Equipment, Forklift Service Tech</strong>, 2005-2021
                     <ul>
-                        <li>Mobile Mechanic</li>
+                        <li>Service Tech</li>
+                        <li>Tech / Mobile Mechanic</li>
                         <li>LPG, Deisel, Gas &amp; Electric Material Handling </li>
                     </ul>
                 </li>
                 <li>
-                    <i>Part-time</i> - <strong>Website Maintenance</strong>, 2009-2022
+                    <i>Part-time</i> - <strong>Website Maintenance / Hobbyist / Gamer</strong>, 1997-2022
                     <ul>
                         <li>Contributed web design and maintenance as a hobby</li>
                         <li>Domain Name &amp; Email Set-up</li>

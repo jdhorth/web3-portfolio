@@ -5,6 +5,7 @@ import liverse from '../assets/liverse.png';
 import nonfungi from '../assets/non-fungi-thumb.jpg';
 import tw33ter from '../assets/tw33ter.png';
 import d3pp from '../assets/d3pp.png';
+import lens from '../assets/lens-protocol-thumb.jpg';
 
 
 
@@ -45,6 +46,12 @@ export default () => {
             </SwiperSlide>
             <SwiperSlide className='swiper'>
 
+                <h3>Lens Protocol</h3>
+                <img src={lens} alt="lens protocol" />
+
+            </SwiperSlide>
+            <SwiperSlide className='swiper'>
+
                 <h3>Web3 Twitter</h3>
                 <img src={tw33ter} alt="Web3 Twitter" />
 
@@ -57,7 +64,7 @@ export default () => {
             </SwiperSlide>
             <SwiperSlide>
 
-                <h3>NFT mint dapp</h3>
+                <h3>NFT Mint</h3>
                 <img src={d3pp} alt="NFT mint dapp" />
 
             </SwiperSlide>
@@ -89,3 +96,4 @@ export default () => {
         </Swiper>
     );
 };
+
